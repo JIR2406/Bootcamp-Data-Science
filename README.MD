@@ -14,7 +14,7 @@ CIENCIA_DATOS/
 │   ├── modulo_1/
 │   │   ├── data/         # Datos brutos y procesados del módulo 1
 │   │   ├── notebooks/    # Cuadernos Jupyter para análisis y experimentación
-│   │   └── scripts/      # Scripts Python para procesamiento y modelado
+│   │   
 │   ├── modulo_2/
 │   │   ├── data/
 │   │   ├── notebooks/
@@ -23,7 +23,6 @@ CIENCIA_DATOS/
 ├── results/              # Resultados globales, reportes y visualizaciones
 ├── requirements.txt      # Lista de dependencias del proyecto
 ├── README.md             # Documentación principal
-└── LICENSE               # Licencia del proyecto
 ```
 
 ### Detalle de carpetas
