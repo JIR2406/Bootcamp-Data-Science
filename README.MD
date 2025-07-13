@@ -41,7 +41,7 @@ CIENCIA_DATOS/
 
 1. **Clona el repositorio:**
      ```bash
-     git clone https://github.com/tu_usuario/CIENCIA_DATOS.git
+     git clone https://github.com/JIR2403/CIENCIA_DATOS.git
      cd CIENCIA_DATOS
      ```
 
